@@ -23,11 +23,12 @@ I’m a passionate **Java Full Stack Developer** with expertise in **High-Level 
     - EC2 (Elastic Compute Cloud)
     - ECS (Elastic Container Service)
     - ECR (Elastic Container Registry)
+    - EKS (Elastic Kubernetes Service)
     - S3 (Simple Storage Service)
     - RDS (Relational Database Service)
     - CodeBuild
     - CloudFormation
-    - Lambda
+    - AWS Lambda
     - IAM (Identity and Access Management)
 - **Other Tools**: JFrog, Prometheus, Grafana
 
