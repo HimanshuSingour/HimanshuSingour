@@ -43,7 +43,5 @@ I’m a passionate **Java Full Stack Developer** with expertise in **High-Level 
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out or check out my repositories for more exciting work!
 
 - [Portfolio](https://himanshu-singour03.netlify.app)
-- [Instagram](https://www.instagram.com/endless_success___/?hl=en)
-- [Topmate](https://topmate.io/himanshu_singour)
-- [Medium](https://medium.com/@singourhimanshu3)
+- [Medium](https://medium.com/@himanshusingour7)
 
