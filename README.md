@@ -7,11 +7,6 @@
 
 ## Hey there 👋
 
-<a href="https://github.com/HimanshuSingour"><img src="https://komarev.com/ghpvc/?username=HimanshuSingour&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"></a>
-<a href="https://github.com/HimanshuSingour?tab=followers"><img src="https://img.shields.io/github/followers/HimanshuSingour?label=Followers&style=flat-square&color=111111" alt="Followers"></a>
-<a href="https://www.linkedin.com/in/himanshu-singour-95627b222"><img src="https://img.shields.io/badge/LinkedIn-53K%2B%20followers-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/endless_success___"><img src="https://img.shields.io/badge/Instagram-223K%20followers-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-
 I'm **Himanshu Singour**, an **ICPC World Finalist** and full stack and AI engineer with 4+ years in fintech and payments. I build products that help engineers prepare for interviews, practise with an AI interviewer and track their growth.
 
 - **Currently:** Building [AlgorithmXlr8.io](https://algorithmxlr8.io), [InterviewXlr8.io](https://interviewxlr8.io), [CodEyes.in](https://codeyes.in) and [Roadmaps.io](https://roadmap.algorithmxlr8.io), along with AI workflows, RAG pipelines and real time voice AI.
@@ -36,10 +31,11 @@ I'm **Himanshu Singour**, an **ICPC World Finalist** and full stack and AI engin
     <td align="center"><a href="https://roadmap.algorithmxlr8.io"><img src="assets/logos/roadmaps.png" width="44" alt="Roadmaps.io"></a></td>
     <td><a href="https://roadmap.algorithmxlr8.io"><b>Roadmaps.io</b></a><br>Step by step developer roadmaps for roles and skills, with progress tracking on every topic.</td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://apps.apple.com/in/app/algorithmxlr8-io/id6763036432"><img src="assets/logos/algorithmxlr8-app.png" width="44" alt="AlgorithmXlr8 app"></a></td>
+    <td><a href="https://apps.apple.com/in/app/algorithmxlr8-io/id6763036432"><b>AlgorithmXlr8 App</b></a><br>The AlgorithmXlr8 app for iOS and Android: real engineering stories, research papers explained simply, short reels and articles you can listen to.<br><a href="https://apps.apple.com/in/app/algorithmxlr8-io/id6763036432"><img src="https://img.shields.io/badge/Download_on_the-App_Store-000000?style=flat-square&logo=apple&logoColor=white" alt="Download on the App Store"></a> <a href="https://play.google.com/store/apps/details?id=io.algorithmxlr8.mobile"><img src="https://img.shields.io/badge/Get_it_on-Google_Play-000000?style=flat-square&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a></td>
+  </tr>
 </table>
-
-<a href="https://apps.apple.com/app/id6763036432"><img src="https://img.shields.io/badge/App_Store-AlgorithmXlr8-111111?style=flat-square&logo=apple&logoColor=white" alt="Download on the App Store"></a>
-<a href="https://play.google.com/store/apps/details?id=io.algorithmxlr8.mobile"><img src="https://img.shields.io/badge/Google_Play-AlgorithmXlr8-111111?style=flat-square&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a>
 
 ## Popular repositories
 
@@ -70,7 +66,6 @@ I'm **Himanshu Singour**, an **ICPC World Finalist** and full stack and AI engin
 - **ICPC World Finalist**
 - **Two Rise Awards** at Infosys as a Specialist Programmer in fintech
 - **Best Placement Award**, 2022
-- Teaching **223K+** engineers on Instagram and **53K+** on LinkedIn
 
 ## Let's connect
 
