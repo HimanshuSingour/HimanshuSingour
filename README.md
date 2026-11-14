@@ -60,12 +60,33 @@ I'm **Himanshu Singour**, an **ICPC World Finalist** and full stack and AI engin
 
 ## Let's connect
 
-<p>
-<a href="https://portfolio.algorithmxlr8.io"><img src="assets/logos/portfolio.png" width="22" height="22" align="absmiddle" alt="Portfolio"></a>&nbsp;&nbsp;<b>Portfolio</b> at <a href="https://portfolio.algorithmxlr8.io">portfolio.algorithmxlr8.io</a><br>
-<a href="https://www.linkedin.com/in/himanshu-singour-95627b222"><img src="assets/logos/linkedin.png" width="22" height="22" align="absmiddle" alt="LinkedIn"></a>&nbsp;&nbsp;<b>LinkedIn</b> at <a href="https://www.linkedin.com/in/himanshu-singour-95627b222">himanshu-singour</a><br>
-<a href="https://x.com/Himmu_S03"><img src="assets/logos/x.png" width="22" height="22" align="absmiddle" alt="X"></a>&nbsp;&nbsp;<b>X</b> at <a href="https://x.com/Himmu_S03">@Himmu_S03</a><br>
-<a href="https://singour.substack.com"><img src="assets/logos/substack.png" width="22" height="22" align="absmiddle" alt="Substack"></a>&nbsp;&nbsp;<b>Substack</b> at <a href="https://singour.substack.com">singour.substack.com</a><br>
-<a href="https://medium.com/@himanshusingour7"><img src="assets/logos/medium.png" width="22" height="22" align="absmiddle" alt="Medium"></a>&nbsp;&nbsp;<b>Medium</b> at <a href="https://medium.com/@himanshusingour7">@himanshusingour7</a><br>
-<a href="https://www.instagram.com/endless_success___"><img src="assets/logos/instagram.png" width="22" height="22" align="absmiddle" alt="Instagram"></a>&nbsp;&nbsp;<b>Instagram</b> at <a href="https://www.instagram.com/endless_success___">@endless_success___</a><br>
-<a href="https://connect.algorithmxlr8.io"><img src="assets/logos/call.png" width="22" height="22" align="absmiddle" alt="Book a call"></a>&nbsp;&nbsp;<b>Book a call</b> on <a href="https://connect.algorithmxlr8.io">connect.algorithmxlr8.io</a>
-</p>
+<table>
+  <tr>
+    <td width="72" align="center"><a href="https://portfolio.algorithmxlr8.io"><img src="assets/logos/portfolio.png" width="44" alt="Portfolio"></a></td>
+    <td><a href="https://portfolio.algorithmxlr8.io"><b>Portfolio</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;portfolio.algorithmxlr8.io<br>My work, products, story and achievements in one place.</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/himanshu-singour-95627b222"><img src="assets/logos/linkedin.png" width="44" alt="LinkedIn"></a></td>
+    <td><a href="https://www.linkedin.com/in/himanshu-singour-95627b222"><b>LinkedIn</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;himanshu-singour<br>Engineering posts, product updates and real career stories.</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://x.com/Himmu_S03"><img src="assets/logos/x.png" width="44" alt="X"></a></td>
+    <td><a href="https://x.com/Himmu_S03"><b>X</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;@Himmu_S03<br>Short thoughts on engineering, AI and building products.</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://singour.substack.com"><img src="assets/logos/substack.png" width="44" alt="Substack"></a></td>
+    <td><a href="https://singour.substack.com"><b>Substack</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;singour.substack.com<br>Weekly engineering newsletter with system design stories and DSA patterns.</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://medium.com/@himanshusingour7"><img src="assets/logos/medium.png" width="44" alt="Medium"></a></td>
+    <td><a href="https://medium.com/@himanshusingour7"><b>Medium</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;@himanshusingour7<br>Long form articles on system design, AI and frontend architecture.</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.instagram.com/endless_success___"><img src="assets/logos/instagram.png" width="44" alt="Instagram"></a></td>
+    <td><a href="https://www.instagram.com/endless_success___"><b>Instagram</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;@endless_success___<br>Short engineering reels on DSA, system design and developer life.</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://connect.algorithmxlr8.io"><img src="assets/logos/call.png" width="44" alt="Book a call"></a></td>
+    <td><a href="https://connect.algorithmxlr8.io"><b>Book a call</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;connect.algorithmxlr8.io<br>Book a one to one call with me.</td>
+  </tr>
+</table>
