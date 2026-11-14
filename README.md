@@ -1,7 +1,7 @@
 <a href="https://portfolio.algorithmxlr8.io">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-    <img alt="Himanshu Singour, ICPC World Finalist and Senior Software Engineer, Founder of AlgorithmXlr8.io" src="assets/banner-light.png" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-circle-dark.png">
+    <img alt="Himanshu Singour, ICPC World Finalist and Senior Software Engineer, Founder of AlgorithmXlr8.io" src="assets/banner-circle-light.png" width="100%">
   </picture>
 </a>
 
