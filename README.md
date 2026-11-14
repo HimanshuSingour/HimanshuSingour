@@ -37,17 +37,6 @@ I'm **Himanshu Singour**, an **ICPC World Finalist** and full stack and AI engin
   </tr>
 </table>
 
-## Popular repositories
-
-| Repository | What's inside | |
-|---|---|---|
-| [Practice-Problem-LLD](https://github.com/HimanshuSingour/Practice-Problem-LLD) | 33 low level design practice problems: parking lot, elevator, ATM, chess, food delivery and more | ![Stars](https://img.shields.io/github/stars/HimanshuSingour/Practice-Problem-LLD?style=flat-square&label=%E2%98%85&color=ffc920&labelColor=111111) |
-| [Important-DSA-Topic-Problems](https://github.com/HimanshuSingour/Important-DSA-Topic-Problems) | Must do DSA problems grouped by topic, from greedy to divide and conquer | ![Stars](https://img.shields.io/github/stars/HimanshuSingour/Important-DSA-Topic-Problems?style=flat-square&label=%E2%98%85&color=ffc920&labelColor=111111) |
-| [Bank-Of-Bharat-BOB](https://github.com/HimanshuSingour/Bank-Of-Bharat-BOB) | Core banking backend in Java and Spring Boot that other apps call for payments | ![Stars](https://img.shields.io/github/stars/HimanshuSingour/Bank-Of-Bharat-BOB?style=flat-square&label=%E2%98%85&color=ffc920&labelColor=111111) |
-| [UPI-Payment-Application](https://github.com/HimanshuSingour/UPI-Payment-Application) | UPI style bill payments, recharges and flight booking, settled through Bank of Bharat | ![Stars](https://img.shields.io/github/stars/HimanshuSingour/UPI-Payment-Application?style=flat-square&label=%E2%98%85&color=ffc920&labelColor=111111) |
-| [Flight-Booking-Application-](https://github.com/HimanshuSingour/Flight-Booking-Application-) | Domestic and international flight booking system in Spring Boot | ![Stars](https://img.shields.io/github/stars/HimanshuSingour/Flight-Booking-Application-?style=flat-square&label=%E2%98%85&color=ffc920&labelColor=111111) |
-| [Google-Pay-Payment-Application-](https://github.com/HimanshuSingour/Google-Pay-Payment-Application-) | Google Pay style payments backend with auth and transaction handling | ![Stars](https://img.shields.io/github/stars/HimanshuSingour/Google-Pay-Payment-Application-?style=flat-square&label=%E2%98%85&color=ffc920&labelColor=111111) |
-
 ## Latest writing
 
 **Newsletter** on [singour.substack.com](https://singour.substack.com)
