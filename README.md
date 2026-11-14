@@ -1,7 +1,7 @@
 <a href="https://portfolio.algorithmxlr8.io">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-circle-dark.png">
-    <img alt="Himanshu Singour, ICPC World Finalist and Senior Software Engineer, Founder of AlgorithmXlr8.io" src="assets/banner-circle-light.png" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-v3.png">
+    <img alt="Himanshu Singour, ICPC World Finalist and Senior Software Engineer, building AlgorithmXlr8.io" src="assets/banner-light-v3.png" width="100%">
   </picture>
 </a>
 
@@ -14,7 +14,7 @@
 
 I'm **Himanshu Singour**, an **ICPC World Finalist** and full stack and AI engineer with 4+ years in fintech and payments. I build products that help engineers prepare for interviews, practise with an AI interviewer and track their growth.
 
-- **Currently:** Founder of [AlgorithmXlr8.io](https://algorithmxlr8.io), [InterviewXlr8.io](https://interviewxlr8.io), [CodEyes.in](https://codeyes.in) and [Roadmaps.io](https://roadmap.algorithmxlr8.io). Building AI workflows, RAG pipelines and real time voice AI.
+- **Currently:** Building [AlgorithmXlr8.io](https://algorithmxlr8.io), [InterviewXlr8.io](https://interviewxlr8.io), [CodEyes.in](https://codeyes.in) and [Roadmaps.io](https://roadmap.algorithmxlr8.io), along with AI workflows, RAG pipelines and real time voice AI.
 - **Previously:** Senior Software Developer at Rahi Platform Technologies · Specialist Programmer at Infosys · SDE at Amazon (Amazon Shipment) · DSA Expert at Chegg
 
 ## What I'm building
