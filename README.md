@@ -63,7 +63,7 @@ I'm **Himanshu Singour**, an **ICPC World Finalist** and full stack and AI engin
 <table>
   <tr>
     <td width="72" align="center"><a href="https://portfolio.algorithmxlr8.io"><img src="assets/logos/portfolio.png" width="44" alt="Portfolio"></a></td>
-    <td><a href="https://portfolio.algorithmxlr8.io"><b>Portfolio</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;portfolio.algorithmxlr8.io<br>My work, products, story and achievements in one place.</td>
+    <td><a href="https://portfolio.algorithmxlr8.io"><b>Portfolio</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;portfolio.algorithmxlr8.io<br>My work, story and achievements in one place, from the ICPC World Finals to building AlgorithmXlr8.io, InterviewXlr8.io, CodEyes.in and Roadmaps.io.</td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/himanshu-singour-95627b222"><img src="assets/logos/linkedin.png" width="44" alt="LinkedIn"></a></td>
