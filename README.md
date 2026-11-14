@@ -44,13 +44,13 @@ I'm **Himanshu Singour**, an **ICPC World Finalist** and full stack and AI engin
 ## Tech I work with
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,java,cpp,python,nodejs,express,react,nextjs,angular,tailwind,vite,spring&theme=dark&perline=13">
-  <img alt="Languages and frameworks" src="https://skillicons.dev/icons?i=ts,js,java,cpp,python,nodejs,express,react,nextjs,angular,tailwind,vite,spring&theme=light&perline=13">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cjava%2Ccpp%2Cpython%2Cnodejs%2Cexpress%2Creact%2Cnextjs%2Cangular%2Ctailwind%2Cvite%2Cspring&theme=dark&perline=13">
+  <img alt="Languages and frameworks" src="https://skillicons.dev/icons?i=ts%2Cjs%2Cjava%2Ccpp%2Cpython%2Cnodejs%2Cexpress%2Creact%2Cnextjs%2Cangular%2Ctailwind%2Cvite%2Cspring&theme=light&perline=13">
 </picture>
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb,mysql,supabase,kafka,docker,kubernetes,aws,cloudflare,githubactions,jenkins,prometheus,grafana,linux&theme=dark&perline=13">
-  <img alt="Data, cloud and DevOps" src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,kafka,docker,kubernetes,aws,cloudflare,githubactions,jenkins,prometheus,grafana,linux&theme=light&perline=13">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb%2Cmysql%2Csupabase%2Ckafka%2Cdocker%2Ckubernetes%2Caws%2Ccloudflare%2Cgithubactions%2Cjenkins%2Cprometheus%2Cgrafana%2Clinux&theme=dark&perline=13">
+  <img alt="Data, cloud and DevOps" src="https://skillicons.dev/icons?i=mongodb%2Cmysql%2Csupabase%2Ckafka%2Cdocker%2Ckubernetes%2Caws%2Ccloudflare%2Cgithubactions%2Cjenkins%2Cprometheus%2Cgrafana%2Clinux&theme=light&perline=13">
 </picture>
 
 **AI:** Gemini and Gemini Live · RAG pipelines · AI agents · LLM workflows<br>
