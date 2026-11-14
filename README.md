@@ -37,27 +37,6 @@ I'm **Himanshu Singour**, an **ICPC World Finalist** and full stack and AI engin
   </tr>
 </table>
 
-## Latest writing
-
-<p><a href="https://singour.substack.com"><img src="assets/logos/substack.png" width="22" height="22" align="absmiddle" alt="Substack"></a>&nbsp;&nbsp;<b>Newsletter</b> on <a href="https://singour.substack.com">singour.substack.com</a></p>
-
-- [Learn to Build AI Agents, End to End](https://singour.substack.com/p/learn-to-build-ai-agents-end-to-end)
-- [How to Become a Great AI Engineer](https://singour.substack.com/p/how-to-become-a-great-ai-engineer)
-- [Is DSA Still Needed in the AI Era?](https://singour.substack.com/p/is-dsa-still-needed-in-the-ai-era)
-- [Software Engineering Is Dead.](https://singour.substack.com/p/software-engineering-is-dead)
-
-<p><a href="https://medium.com/@himanshusingour7"><img src="assets/logos/medium.png" width="22" height="22" align="absmiddle" alt="Medium"></a>&nbsp;&nbsp;<b>Medium</b> at <a href="https://medium.com/@himanshusingour7">@himanshusingour7</a></p>
-
-- [I Built My First RAG System Because My Dad Asked One Simple Question](https://medium.com/@himanshusingour7/i-built-my-first-rag-system-because-my-dad-asked-one-simple-question-16c6e3e115cd)
-- [JWT in Microservices: What Really Happens from API Gateway to 10 Microservices](https://medium.com/@himanshusingour7/jwt-in-microservices-what-really-happens-from-api-gateway-to-10-microservices-392ed6d78fd3)
-- [Every Frontend Architecture Pattern](https://medium.com/@himanshusingour7/every-frontend-architecture-pattern-340d16d9e049)
-
-## Highlights
-
-- **ICPC World Finalist**
-- **Two Rise Awards** at Infosys as a Specialist Programmer in fintech
-- **Best Placement Award**, 2022
-
 ## Let's connect
 
 <table>
@@ -90,3 +69,24 @@ I'm **Himanshu Singour**, an **ICPC World Finalist** and full stack and AI engin
     <td><a href="https://connect.algorithmxlr8.io"><b>Book a call</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;connect.algorithmxlr8.io<br>Book a one to one call with me.</td>
   </tr>
 </table>
+
+## Latest writing
+
+<p><a href="https://singour.substack.com"><img src="assets/logos/substack.png" width="22" height="22" align="absmiddle" alt="Substack"></a>&nbsp;&nbsp;<b>Newsletter</b> on <a href="https://singour.substack.com">singour.substack.com</a></p>
+
+- [Learn to Build AI Agents, End to End](https://singour.substack.com/p/learn-to-build-ai-agents-end-to-end)
+- [How to Become a Great AI Engineer](https://singour.substack.com/p/how-to-become-a-great-ai-engineer)
+- [Is DSA Still Needed in the AI Era?](https://singour.substack.com/p/is-dsa-still-needed-in-the-ai-era)
+- [Software Engineering Is Dead.](https://singour.substack.com/p/software-engineering-is-dead)
+
+<p><a href="https://medium.com/@himanshusingour7"><img src="assets/logos/medium.png" width="22" height="22" align="absmiddle" alt="Medium"></a>&nbsp;&nbsp;<b>Medium</b> at <a href="https://medium.com/@himanshusingour7">@himanshusingour7</a></p>
+
+- [I Built My First RAG System Because My Dad Asked One Simple Question](https://medium.com/@himanshusingour7/i-built-my-first-rag-system-because-my-dad-asked-one-simple-question-16c6e3e115cd)
+- [JWT in Microservices: What Really Happens from API Gateway to 10 Microservices](https://medium.com/@himanshusingour7/jwt-in-microservices-what-really-happens-from-api-gateway-to-10-microservices-392ed6d78fd3)
+- [Every Frontend Architecture Pattern](https://medium.com/@himanshusingour7/every-frontend-architecture-pattern-340d16d9e049)
+
+## Highlights
+
+- **ICPC World Finalist**
+- **Two Rise Awards** at Infosys as a Specialist Programmer in fintech
+- **Best Placement Award**, 2022
