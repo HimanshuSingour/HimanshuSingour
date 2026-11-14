@@ -41,21 +41,6 @@ I'm **Himanshu Singour**, an **ICPC World Finalist** and full stack and AI engin
 <a href="https://apps.apple.com/app/id6763036432"><img src="https://img.shields.io/badge/App_Store-AlgorithmXlr8-111111?style=flat-square&logo=apple&logoColor=white" alt="Download on the App Store"></a>
 <a href="https://play.google.com/store/apps/details?id=io.algorithmxlr8.mobile"><img src="https://img.shields.io/badge/Google_Play-AlgorithmXlr8-111111?style=flat-square&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a>
 
-## Tech I work with
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cjava%2Ccpp%2Cpython%2Cnodejs%2Cexpress%2Creact%2Cnextjs%2Cangular%2Ctailwind%2Cvite%2Cspring&theme=dark&perline=13">
-  <img alt="Languages and frameworks" src="https://skillicons.dev/icons?i=ts%2Cjs%2Cjava%2Ccpp%2Cpython%2Cnodejs%2Cexpress%2Creact%2Cnextjs%2Cangular%2Ctailwind%2Cvite%2Cspring&theme=light&perline=13">
-</picture>
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb%2Cmysql%2Csupabase%2Ckafka%2Cdocker%2Ckubernetes%2Caws%2Ccloudflare%2Cgithubactions%2Cjenkins%2Cprometheus%2Cgrafana%2Clinux&theme=dark&perline=13">
-  <img alt="Data, cloud and DevOps" src="https://skillicons.dev/icons?i=mongodb%2Cmysql%2Csupabase%2Ckafka%2Cdocker%2Ckubernetes%2Caws%2Ccloudflare%2Cgithubactions%2Cjenkins%2Cprometheus%2Cgrafana%2Clinux&theme=light&perline=13">
-</picture>
-
-**AI:** Gemini and Gemini Live · RAG pipelines · AI agents · LLM workflows<br>
-**Mobile:** React Native with Expo, shipped on the App Store and Google Play
-
 ## Popular repositories
 
 | Repository | What's inside | |
