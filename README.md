@@ -60,10 +60,12 @@ I'm **Himanshu Singour**, an **ICPC World Finalist** and full stack and AI engin
 
 ## Let's connect
 
-<a href="https://portfolio.algorithmxlr8.io"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/himanshu-singour-95627b222"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://x.com/Himmu_S03"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-<a href="https://singour.substack.com"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"></a>
-<a href="https://medium.com/@himanshusingour7"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-<a href="https://www.instagram.com/endless_success___"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://connect.algorithmxlr8.io"><img src="https://img.shields.io/badge/Book_a_call-FFC920?style=for-the-badge&logo=googlecalendar&logoColor=111111" alt="Book a call"></a>
+<p>
+<a href="https://portfolio.algorithmxlr8.io"><img src="assets/logos/portfolio.png" width="22" height="22" align="absmiddle" alt="Portfolio"></a>&nbsp;&nbsp;<b>Portfolio</b> at <a href="https://portfolio.algorithmxlr8.io">portfolio.algorithmxlr8.io</a><br>
+<a href="https://www.linkedin.com/in/himanshu-singour-95627b222"><img src="assets/logos/linkedin.png" width="22" height="22" align="absmiddle" alt="LinkedIn"></a>&nbsp;&nbsp;<b>LinkedIn</b> at <a href="https://www.linkedin.com/in/himanshu-singour-95627b222">himanshu-singour</a><br>
+<a href="https://x.com/Himmu_S03"><img src="assets/logos/x.png" width="22" height="22" align="absmiddle" alt="X"></a>&nbsp;&nbsp;<b>X</b> at <a href="https://x.com/Himmu_S03">@Himmu_S03</a><br>
+<a href="https://singour.substack.com"><img src="assets/logos/substack.png" width="22" height="22" align="absmiddle" alt="Substack"></a>&nbsp;&nbsp;<b>Substack</b> at <a href="https://singour.substack.com">singour.substack.com</a><br>
+<a href="https://medium.com/@himanshusingour7"><img src="assets/logos/medium.png" width="22" height="22" align="absmiddle" alt="Medium"></a>&nbsp;&nbsp;<b>Medium</b> at <a href="https://medium.com/@himanshusingour7">@himanshusingour7</a><br>
+<a href="https://www.instagram.com/endless_success___"><img src="assets/logos/instagram.png" width="22" height="22" align="absmiddle" alt="Instagram"></a>&nbsp;&nbsp;<b>Instagram</b> at <a href="https://www.instagram.com/endless_success___">@endless_success___</a><br>
+<a href="https://connect.algorithmxlr8.io"><img src="assets/logos/call.png" width="22" height="22" align="absmiddle" alt="Book a call"></a>&nbsp;&nbsp;<b>Book a call</b> on <a href="https://connect.algorithmxlr8.io">connect.algorithmxlr8.io</a>
+</p>
